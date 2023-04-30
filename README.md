@@ -1,47 +1,34 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Pedrowesley/6c704dee557e8d7ebbc437e55583ed34/raw/0bc68f36b0e438081cc96fe90d2cd21827471ff7/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro DEV</h1>
+<div align="left">
 
-- 🔥 Web Front-end Developer
+# Pedro Wesley
 
-- 🔭 I’m currently working at [OSF Digital](https://www.osf.digital/)
+Front-end Developer
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Angular, React**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
-<br><br>
+</div>
 
-## 🛠 &nbsp;Tech Stack
+<div align="left">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-Pedro%20Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-wesley-440130145/)](https://www.linkedin.com/in/pedro-wesley-440130145/)
+[![Instagram Badge](https://img.shields.io/badge/-dev__pedro__ofc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_pedro_ofc/)](https://www.instagram.com/dev_pedro_ofc/)
 
-<br><br>
-<br><br>
+## Sobre
 
-## ⚙️ &nbsp;GitHub Analytics
+Olá, meu nome é Pedro e sou um desenvolvedor Web e Mobile apaixonado por tecnologia. Com experiência em front-end, trabalho com frameworks modernos e tecnologias como Git, CSS, HTML e JavaScript. Ao longo da minha jornada, atuei em projetos significativos, alguns dos quais iniciei do zero. Trabalho seguindo boas práticas e arquitetura de projetos, e sempre busco aprimorar minhas habilidades e conhecimentos técnicos. Além disso, sou motivado por desafios e busco desenvolver recursos desafiadores.
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Pedrowesley&show_icons=true&theme=vision-friendly-dark" alt="pedro stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrowesley&layout=compact&theme=vision-friendly-dark" alt="pedro most languages"/>
-</p>
+Entre minhas principais habilidades, incluem-se o desenvolvimento de interfaces de usuário responsivas, a implementação de lógica de negócios em aplicativos Web e Mobile, e a manutenção de aplicativos já existentes. Sou um profissional dedicado, confiável e sempre busco entregar o melhor resultado. Além disso, possuo habilidades interpessoais que me permitem trabalhar em equipe e colaborar com outros desenvolvedores, designers e profissionais de negócios.
 
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<div>
-<a href="pedrodev101@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/pedro-wesley-440130145" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+Estou sempre em busca de aprendizado e crescimento profissional, e acredito que posso contribuir para projetos ambiciosos e de alto impacto. Se você está procurando um desenvolvedor Web e Mobile com experiência em front-end, habilidades técnicas sólidas e uma abordagem orientada a resultados, estou pronto para conversar.
 </div>
