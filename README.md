@@ -18,11 +18,11 @@ Front-end Developer
 [![LinkedIn Badge](https://img.shields.io/badge/-Pedro%20Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-wesley-440130145/)](https://www.linkedin.com/in/pedro-wesley-440130145/)
 [![Instagram Badge](https://img.shields.io/badge/-dev__pedro__ofc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_pedro_ofc/)](https://www.instagram.com/dev_pedro_ofc/)
 
-## Sobre
+## 👋 About
 
-Olá, meu nome é Pedro e sou um desenvolvedor Web e Mobile apaixonado por tecnologia. Com experiência em front-end, trabalho com frameworks modernos e tecnologias como Git, CSS, HTML e JavaScript. Ao longo da minha jornada, atuei em projetos significativos, alguns dos quais iniciei do zero. Trabalho seguindo boas práticas e arquitetura de projetos, e sempre busco aprimorar minhas habilidades e conhecimentos técnicos. Além disso, sou motivado por desafios e busco desenvolver recursos desafiadores.
+Hello, my name is Pedro and I'm a technology enthusiast and Web/Mobile developer 🚀. With experience in front-end, I work with modern frameworks and technologies such as Git, CSS, HTML, and JavaScript 🌐. Throughout my journey, I have worked on significant projects, some of which I started from scratch 🔨. I follow best practices and project architecture, and always strive to improve my skills and technical knowledge 💪. Additionally, I am motivated by challenges and enjoy developing innovative resources 💡.
 
-Entre minhas principais habilidades, incluem-se o desenvolvimento de interfaces de usuário responsivas, a implementação de lógica de negócios em aplicativos Web e Mobile, e a manutenção de aplicativos já existentes. Sou um profissional dedicado, confiável e sempre busco entregar o melhor resultado. Além disso, possuo habilidades interpessoais que me permitem trabalhar em equipe e colaborar com outros desenvolvedores, designers e profissionais de negócios.
+My main skills include developing responsive user interfaces 📱, implementing business logic in Web and Mobile applications 💼, and maintaining existing applications 🔧. I am a dedicated and reliable professional who always strives to deliver the best results 🏆. I also possess interpersonal skills that allow me to work in a team and collaborate with other developers, designers, and business professionals 👥.
 
-Estou sempre em busca de aprendizado e crescimento profissional, e acredito que posso contribuir para projetos ambiciosos e de alto impacto. Se você está procurando um desenvolvedor Web e Mobile com experiência em front-end, habilidades técnicas sólidas e uma abordagem orientada a resultados, estou pronto para conversar.
+I am always seeking learning and professional growth, and I believe I can contribute to ambitious and high-impact projects 🔥. If you are looking for a Web/Mobile developer with experience in front-end, solid technical skills, and a results-driven approach, I'm ready to chat 🤝.
 </div>
