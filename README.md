@@ -18,11 +18,12 @@ Front-end Developer
 [![LinkedIn Badge](https://img.shields.io/badge/-Pedro%20Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-wesley-440130145/)](https://www.linkedin.com/in/pedro-wesley-440130145/)
 [![Instagram Badge](https://img.shields.io/badge/-dev__pedro__ofc-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_pedro_ofc/)](https://www.instagram.com/dev_pedro_ofc/)
 
+
 ## 👋 About
 
-Hello, my name is Pedro and I'm a technology enthusiast and Web/Mobile developer 🚀. With experience in front-end, I work with modern frameworks and technologies such as Git, CSS, HTML, and JavaScript 🌐. Throughout my journey, I have worked on significant projects, some of which I started from scratch 🔨. I follow best practices and project architecture, and always strive to improve my skills and technical knowledge 💪. Additionally, I am motivated by challenges and enjoy developing innovative resources 💡.
+Hello, my name is Pedro and I'm a technology enthusiast and Web/Mobile developer 🚀. With experience in front-end, I work with modern frameworks and technologies such as React JS, React Native for mobile, and Angular 🌐. Throughout my journey, I have worked on significant projects, some of which I started from scratch 🔨. I follow best practices and project architecture, and always strive to improve my skills and technical knowledge 💪. Additionally, I am motivated by challenges and enjoy developing innovative resources 💡.
 
 My main skills include developing responsive user interfaces 📱, implementing business logic in Web and Mobile applications 💼, and maintaining existing applications 🔧. I am a dedicated and reliable professional who always strives to deliver the best results 🏆. I also possess interpersonal skills that allow me to work in a team and collaborate with other developers, designers, and business professionals 👥.
 
-I am always seeking learning and professional growth, and I believe I can contribute to ambitious and high-impact projects 🔥. If you are looking for a Web/Mobile developer with experience in front-end, solid technical skills, and a results-driven approach, I'm ready to chat 🤝.
+I am always seeking learning and professional growth, and I believe I can contribute to ambitious and high-impact projects 🔥. If you are looking for a Web/Mobile developer with experience in React JS, React Native for mobile, Angular, solid technical skills, and a results-driven approach, I'm ready to chat 🤝.
 </div>
